@@ -8,6 +8,7 @@ class RestapiserverApplicationTests {
 
     @Test
     void contextLoads() {
+        System.out.println("hello");
     }
 
 }
